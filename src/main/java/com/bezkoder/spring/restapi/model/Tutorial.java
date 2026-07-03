@@ -2,7 +2,11 @@ package com.bezkoder.spring.restapi.model;
 
 public class Tutorial {
   private long id = 0;
-//commit conflict 
+
+//commit conflict 121
+
+
+  private String title;
   private String title;
 //hdh
   private String description;
